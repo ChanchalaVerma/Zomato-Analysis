@@ -23,4 +23,7 @@ PROBLEM STATEMENTS <br/>
 8.Percentage of Restaurants based on "Has_Online_delivery".<br/>
 9. Develop Charts based on Cuisines, City, Ratings.<br/>
 
+EXCEL <br/>
+Excel Dashboard <br/>
+![Screenshot 2024-10-04 223407](https://github.com/user-attachments/assets/3493bc62-9051-46da-8b92-c05d7e4beb57)
 
