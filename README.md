@@ -14,6 +14,7 @@ PROBLEM STATEMENTS <br/>
    G. Weekday name<br/>
    H. Financial Month ( April = FM1, May= FM2  …. March = FM12)<br/>
    I. Financial Quarter ( Quarters based on Financial Month)<br/>
+
 3.Find the Numbers of Restaurants based on City and Country. <br/>
 4.Numbers of Restaurants opening based on Year , Quarter , Month.<br/>
 5. Count of Restaurants based on Average Ratings.<br/>
@@ -21,3 +22,5 @@ PROBLEM STATEMENTS <br/>
 7.Percentage of Restaurants based on "Has_Table_booking".<br/>
 8.Percentage of Restaurants based on "Has_Online_delivery".<br/>
 9. Develop Charts based on Cuisines, City, Ratings.<br/>
+
+
