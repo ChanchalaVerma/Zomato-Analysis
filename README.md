@@ -27,3 +27,6 @@ EXCEL <br/>
 Excel Dashboard <br/>
 ![Screenshot 2024-10-04 223407](https://github.com/user-attachments/assets/3493bc62-9051-46da-8b92-c05d7e4beb57)
 
+PowerBi dashboard <br/>
+![Screenshot 2024-10-27 215822](https://github.com/user-attachments/assets/4f32c9d7-bd43-4046-8e3b-037100651e44)
+
