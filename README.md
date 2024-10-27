@@ -30,3 +30,10 @@ Excel Dashboard <br/>
 PowerBi dashboard <br/>
 ![Screenshot 2024-10-27 215822](https://github.com/user-attachments/assets/4f32c9d7-bd43-4046-8e3b-037100651e44)
 
+Tableau Dashboard <br/>
+Dashboard no. 1- This dashboard shows the analysis of data across the globe.
+![Screenshot 2024-10-27 225246](https://github.com/user-attachments/assets/d9fe6154-be8b-47a0-b095-2967c67408d8)
+<br/>
+Dashboard no. 2- This dashboard shows the analysis of data only related to India.
+Since Majority of the resturants are in India and Zomato is an Indian company it is important to show data from India as well. A city Filter and timeline has been added to enhance interactivity.<br/>  
+![Screenshot 2024-10-27 230252](https://github.com/user-attachments/assets/0bf21fc9-ca6e-403f-b326-8e0f0c618ecc)
